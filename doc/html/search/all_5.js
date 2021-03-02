@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['get',['Get',['../class_linked_list.html#aedb30ce1d4d7e788d447d71536f558e7',1,'LinkedList::Get(T &amp;data)'],['../class_linked_list.html#ae2cd13f4f64b8792759f4fd5627e8031',1,'LinkedList::Get(int index)']]],
+  ['getbackgroundphoto',['GetBackgroundPhoto',['../class_member.html#a65508ee706e36c1292f17616b3780e3b',1,'Member']]],
+  ['getbasicchatroomname',['GetBasicChatRoomName',['../class_chat_room.html#a073f3195bbc6431ffcd8c1654fb5f568',1,'ChatRoom::GetBasicChatRoomName()'],['../class_group_chat_room.html#a4c448be2b5e2ceac58ea89726db3de30',1,'GroupChatRoom::GetBasicChatRoomName()'],['../class_personal_chat_room.html#a29ccc680d9d7da1d3181ee90a10e1575',1,'PersonalChatRoom::GetBasicChatRoomName()']]],
+  ['getbirth',['GetBirth',['../class_member.html#a522695645654d6587c6afd9d549a9b8d',1,'Member']]],
+  ['getchatroomid',['getChatRoomID',['../class_chat_room.html#ab96fabef5e08a637dcd006f57b7ec143',1,'ChatRoom::getChatRoomID()'],['../class_group_chat_room.html#ab55336e290361edb2b7b09ac850faf60',1,'GroupChatRoom::getChatRoomID()'],['../class_personal_chat_room.html#a65e78a03e2610331f30b1121cc551fc1',1,'PersonalChatRoom::getChatRoomID()']]],
+  ['getchatroomlist',['getChatRoomList',['../class_member.html#a798a29dfe85d2a1d4e11a52e5ddf7348',1,'Member']]],
+  ['getchatroomname',['GetChatRoomName',['../class_chat_room.html#a78a6fe55f8356d84fdafa3fc104f05fd',1,'ChatRoom::GetChatRoomName()'],['../class_group_chat_room.html#af9b01658bbe3eedd61f65a0ebfa159af',1,'GroupChatRoom::GetChatRoomName()'],['../class_personal_chat_room.html#a5b3d3c58dee6118f0e1d6fc4e7a39f78',1,'PersonalChatRoom::GetChatRoomName()']]],
+  ['getcontent',['getContent',['../class_message.html#a3d4ceea44b0922802d6ae99063ac4e48',1,'Message']]],
+  ['getfriendlist',['getFriendList',['../class_member.html#aa3204eecca5be210a3b07ca1af9b1815',1,'Member']]],
+  ['getid',['GetId',['../class_member.html#a91845d5c8f24379c262b02c3cef6b036',1,'Member']]],
+  ['getislogin',['GetIsLogin',['../class_client.html#a009d7dd6f5fc13909591121bbbb2b72f',1,'Client']]],
+  ['getmessage',['GetMessage',['../class_message.html#a3b9ba5d9eac541ee051a8e7c4d9380cc',1,'Message']]],
+  ['getmessagelist',['GetMessageList',['../class_chat_room.html#a85c80d67366ab9b2dcda2b198361703c',1,'ChatRoom::GetMessageList()'],['../class_group_chat_room.html#aa8eed753c091878e1decc6cc087b9340',1,'GroupChatRoom::GetMessageList()'],['../class_personal_chat_room.html#a628966bc7f914e9af23bec9f2bbe83e2',1,'PersonalChatRoom::GetMessageList()']]],
+  ['getname',['GetName',['../class_member.html#ab0517e92318304d88708da2e59305767',1,'Member']]],
+  ['getnextitem',['GetNextItem',['../class_linked_list.html#a8f3e4333c2169886bf08c1d482b8d789',1,'LinkedList']]],
+  ['getphonenum',['GetPhoneNum',['../class_member.html#a21716afd2d9f31129e77ff51e798031b',1,'Member']]],
+  ['getprofilemessage',['GetProfileMessage',['../class_member.html#ac1088116503dd237578ae0e314ac9674',1,'Member']]],
+  ['getprofilephoto',['GetProfilePhoto',['../class_member.html#addc16e433dc9a6960bac4d42ff1902af',1,'Member']]],
+  ['getpw',['GetPw',['../class_member.html#a456e381580bec38c596db410cdf98a2c',1,'Member']]],
+  ['getreceiverid',['GetReceiverId',['../class_chat_room.html#a552f2dfe760c2d327a3a5370e4ac5901',1,'ChatRoom::GetReceiverId()'],['../class_group_chat_room.html#acb02eae6a8b2cdb5a6434ec6edc7550e',1,'GroupChatRoom::GetReceiverId()'],['../class_personal_chat_room.html#a8a86889a1eaf45dbc714f9735dba4135',1,'PersonalChatRoom::GetReceiverId()']]],
+  ['getreceiversid',['GetReceiversId',['../class_chat_room.html#ab8209830c6a86b7eff8c1b1a5f0d5c06',1,'ChatRoom::GetReceiversId()'],['../class_group_chat_room.html#aa1d1a48e64c7c6b9ec2d0f87768adbaa',1,'GroupChatRoom::GetReceiversId()'],['../class_personal_chat_room.html#a93f5597a2f2bc365330530fb6eb87357',1,'PersonalChatRoom::GetReceiversId()']]],
+  ['getsendid',['getSendId',['../class_message.html#a8a40351e9173e138fbd5990b31295808',1,'Message']]],
+  ['groupchatroom',['GroupChatRoom',['../class_group_chat_room.html',1,'GroupChatRoom'],['../class_group_chat_room.html#abe47721c06bbed25c1bd5590b525106d',1,'GroupChatRoom::GroupChatRoom()']]]
+];
